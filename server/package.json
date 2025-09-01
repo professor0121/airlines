@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This project is a modern airline management platform that simplifies flight booking, ticketing, scheduling, and customer support. It enhances user experience with real-time flight updates, secure transactions, and efficient management tools for passengers, staff, and administrators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professor0121/airlines.git"
+  },
+  "author": "Abhishek kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/professor0121/airlines/issues"
+  },
+  "homepage": "https://github.com/professor0121/airlines#readme"
+}
