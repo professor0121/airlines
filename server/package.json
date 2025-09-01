@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This project is a modern airline management platform that simplifies flight booking, ticketing, scheduling, and customer support. It enhances user experience with real-time flight updates, secure transactions, and efficient management tools for passengers, staff, and administrators.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/professor0121/airlines/issues"
   },
-  "homepage": "https://github.com/professor0121/airlines#readme"
+  "homepage": "https://github.com/professor0121/airlines#readme",
+  "dependencies": {
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3"
+  }
 }
